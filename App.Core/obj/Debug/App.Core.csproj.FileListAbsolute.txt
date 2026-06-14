@@ -1,0 +1,6 @@
+D:\Users\junaid\source\repos\LibraryBookMangement\App.Core\bin\Debug\App.Core.dll
+D:\Users\junaid\source\repos\LibraryBookMangement\App.Core\bin\Debug\App.Core.pdb
+D:\Users\junaid\source\repos\LibraryBookMangement\App.Core\obj\Debug\App.Core.csproj.AssemblyReference.cache
+D:\Users\junaid\source\repos\LibraryBookMangement\App.Core\obj\Debug\App.Core.csproj.CoreCompileInputs.cache
+D:\Users\junaid\source\repos\LibraryBookMangement\App.Core\obj\Debug\App.Core.dll
+D:\Users\junaid\source\repos\LibraryBookMangement\App.Core\obj\Debug\App.Core.pdb
